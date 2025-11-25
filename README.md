@@ -1,1 +1,1 @@
-# html-cv
+Used HTML and CSS to build a simple CV 
