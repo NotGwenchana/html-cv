@@ -1,3 +1,16 @@
 p {
     color: rgb(3, 194, 3);
 }
+
+.info {
+    white-space: pre-line;
+}
+
+.names {
+    color: rgb(59, 157, 202);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
